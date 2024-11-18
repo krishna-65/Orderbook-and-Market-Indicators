@@ -53,7 +53,7 @@ npm  package manager
 
 **1.Clone the Repository**:
 
-git clone https://github.com/your-username/market-depth-chart.git
+git clone https://github.com/krishna-65/Orderbook-and-Market-Indicators.git
 cd market-depth-chart
 
 **2.Install Dependencies**:
